@@ -11,6 +11,7 @@ function App() {
   return (
     <div className='App'>
       {process.env.VITE_TEST}
+      UPDATE
       <Hello />
       <div>
         <a href='https://vitejs.dev' target='_blank' rel='noreferrer'>
